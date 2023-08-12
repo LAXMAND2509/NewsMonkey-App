@@ -1,7 +1,8 @@
 NewsMonkey - Your Personal News Aggregator
+
 This is a small project that features a user-friendly news aggregator application built using React for the frontend and powered by a news API to fetch the most recent news articles. With NewsMonkey, you can effortlessly stay informed about current events, trending topics, and news from various sources, all within a single platform.
 
-Features:
+Features :
 
   - Real-time News Updates: Access the latest news articles from a reliable news source API.
   - Responsive Design: The frontend, developed using React, is fully responsive to ensure a seamless experience on different devices.
